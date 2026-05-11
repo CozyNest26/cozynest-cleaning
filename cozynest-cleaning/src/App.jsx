@@ -9,15 +9,15 @@ const services = [
 
 const testimonials = [
   {
-    name: "Sarah M.",
+    name: "Carol H.",
     text: "CozyNest transformed our home. Extremely professional and detail-oriented."
   },
   {
-    name: "Jason T.",
+    name: "Peg H.",
     text: "Reliable, friendly, and my house has never looked better."
   },
   {
-    name: "Emily R.",
+    name: "Jeffrey W.",
     text: "The easiest cleaning company I’ve ever worked with. Highly recommend."
   }
 ]
