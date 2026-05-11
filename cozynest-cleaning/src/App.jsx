@@ -1,13 +1,3 @@
-# Replace Your App.jsx With This Full Version
-
-1. In GitHub, click `src/App.jsx`
-2. Click the pencil/edit icon
-3. Delete everything
-4. Paste ALL of the code below
-5. Commit changes
-6. Go back to Vercel → Deployments → Redeploy
-
-```jsx
 const SITE = {
   name: 'CozyNest Cleaning, LLC',
   phone: '(608) 400-5820',
