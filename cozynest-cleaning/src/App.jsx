@@ -71,7 +71,7 @@ export default function App() {
 
         <div>
           <img
-            src=https://images.unsplash.com/photo-1582667407868-07060cb5e61f?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+            src=https://images.unsplash.com/photo-1567767326925-e2047bf469d0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
             alt="Clean home"
             className="rounded-[40px] shadow-2xl border-8 border-white"
           />
