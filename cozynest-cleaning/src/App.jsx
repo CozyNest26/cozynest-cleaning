@@ -45,7 +45,7 @@ export default function App() {
           </p>
 
           <a
-  href="#quote-form"
+  href="#free-quote-form"
   className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
 >
             Get a Free Quote
@@ -164,7 +164,7 @@ export default function App() {
         </div>
       </section>
 {/* QUOTE FORM */}
-<section id="quote-form" className="bg-white py-20">
+<section id="free-quote-form" className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
     <div className="bg-[#f4f3ef] rounded-[40px] p-10 shadow-lg">
       <h2 className="text-4xl font-bold text-center mb-4">
