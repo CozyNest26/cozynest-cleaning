@@ -120,31 +120,7 @@ export default function App() {
         </div>
       </section>
 
-      {/* TESTIMONIALS */}
-      <section className="bg-white py-20">
-        <div className="max-w-6xl mx-auto px-6">
-          <h2 className="text-4xl font-bold text-center mb-14">
-            What Clients Are Saying
-          </h2>
-
-          <div className="grid md:grid-cols-3 gap-8">
-            {testimonials.map((testimonial) => (
-              <div
-                key={testimonial.name}
-                className="bg-[#f4f3ef] p-8 rounded-3xl"
-              >
-                <p className="text-gray-700 mb-6 italic">
-                  "{testimonial.text}"
-                </p>
-
-                <div className="font-semibold">{testimonial.name}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* CONTACT */}
+           {/* CONTACT */}
       <section className="py-20">
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h2 className="text-5xl font-bold mb-6">
