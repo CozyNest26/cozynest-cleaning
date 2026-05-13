@@ -164,7 +164,7 @@ export default function App() {
         </div>
       </section>
 {/* QUOTE FORM */}
-<section className="bg-white py-20">
+<section id="quote-form" className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
     <div className="bg-[#f4f3ef] rounded-[40px] p-10 shadow-lg">
       <h2 className="text-4xl font-bold text-center mb-4">
