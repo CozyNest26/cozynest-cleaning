@@ -163,7 +163,73 @@ export default function App() {
           </a>
         </div>
       </section>
+{/* QUOTE FORM */}
+<section className="bg-white py-20">
+  <div className="max-w-4xl mx-auto px-6">
+    <div className="bg-[#f4f3ef] rounded-[40px] p-10 shadow-lg">
+      <h2 className="text-4xl font-bold text-center mb-4">
+        Request a Free Quote
+      </h2>
 
+      <p className="text-center text-gray-600 mb-10">
+        Tell us about your home and cleaning needs.
+      </p>
+
+      <form
+        action="https://formspree.io/f/mgodqrnz"
+        method="POST"
+        className="grid md:grid-cols-2 gap-6"
+      >
+        <input
+          type="text"
+          name="name"
+          placeholder="Full Name"
+          required
+          className="p-4 rounded-2xl border border-gray-300"
+        />
+
+        <input
+          type="tel"
+          name="phone"
+          placeholder="Phone Number"
+          required
+          className="p-4 rounded-2xl border border-gray-300"
+        />
+
+        <input
+          type="email"
+          name="email"
+          placeholder="Email Address"
+          className="p-4 rounded-2xl border border-gray-300 md:col-span-2"
+        />
+
+        <select
+          name="service"
+          className="p-4 rounded-2xl border border-gray-300 md:col-span-2"
+        >
+          <option>Recurring Cleaning</option>
+          <option>Deep Cleaning</option>
+          <option>Move-In / Move-Out Cleaning</option>
+          <option>Vacation Rental Cleaning</option>
+        </select>
+
+        <textarea
+          name="message"
+          placeholder="Tell us about your home and what you need cleaned..."
+          rows="5"
+          className="p-4 rounded-2xl border border-gray-300 md:col-span-2"
+        />
+
+        <button
+          type="submit"
+          className="bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition md:col-span-2"
+        >
+          Request My Free Quote
+        </button>
+      </form>
+    </div>
+  </div>
+</section>
       {/* FOOTER */}
       <footer className="bg-white border-t">
         <div className="max-w-6xl mx-auto px-6 py-10 grid md:grid-cols-2 gap-10">
