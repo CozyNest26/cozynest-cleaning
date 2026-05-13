@@ -373,6 +373,68 @@ export default function App() {
     </div>
   </div>
 </section>
+    {/* SERVICE AREA */}
+<section className="bg-[#f4f3ef] py-20">
+  <div className="max-w-6xl mx-auto px-6 text-center">
+    
+    <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
+      Proudly Serving the Madison Area
+    </h2>
+
+    <p className="text-gray-600 text-lg max-w-2xl mx-auto mb-12">
+      CozyNest Cleaning provides reliable, detail-focused residential cleaning
+      services throughout Madison and surrounding communities.
+    </p>
+
+    <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-left">
+      
+      <div className="bg-white rounded-3xl p-6 shadow-md">
+        <h3 className="font-bold text-[#2f4337] mb-3">Madison</h3>
+        <ul className="space-y-2 text-gray-600">
+          <li>Downtown</li>
+          <li>West Side</li>
+          <li>East Side</li>
+          <li>Near West</li>
+        </ul>
+      </div>
+
+      <div className="bg-white rounded-3xl p-6 shadow-md">
+        <h3 className="font-bold text-[#2f4337] mb-3">Dane County</h3>
+        <ul className="space-y-2 text-gray-600">
+          <li>Middleton</li>
+          <li>Fitchburg</li>
+          <li>Sun Prairie</li>
+          <li>Verona</li>
+        </ul>
+      </div>
+
+      <div className="bg-white rounded-3xl p-6 shadow-md">
+        <h3 className="font-bold text-[#2f4337] mb-3">Additional Areas</h3>
+        <ul className="space-y-2 text-gray-600">
+          <li>Waunakee</li>
+          <li>Monona</li>
+          <li>McFarland</li>
+          <li>Cottage Grove</li>
+        </ul>
+      </div>
+
+      <div className="bg-white rounded-3xl p-6 shadow-md">
+        <h3 className="font-bold text-[#2f4337] mb-3">Need Something Else?</h3>
+        <p className="text-gray-600 mb-4">
+          Not sure if we service your area? Reach out and ask!
+        </p>
+
+        <a
+          href="#free-quote-form"
+          className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-5 py-3 rounded-2xl shadow-md transition"
+        >
+          Request a Quote
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>  
       {/* FOOTER */}
       <footer className="bg-white border-t">
         <div className="max-w-6xl mx-auto px-6 py-10 grid md:grid-cols-2 gap-10">
