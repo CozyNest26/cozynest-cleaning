@@ -373,7 +373,83 @@ export default function App() {
     </div>
   </div>
 </section>
-    {/* SERVICE AREA */}
+   {/* GOOGLE REVIEWS */}
+<section className="bg-white py-20">
+  <div className="max-w-6xl mx-auto px-6">
+
+    <div className="text-center mb-14">
+      <div className="text-5xl mb-4">⭐️⭐️⭐️⭐️⭐️</div>
+
+      <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
+        What Clients Are Saying
+      </h2>
+
+      <p className="text-gray-600 text-lg">
+        Trusted by homeowners throughout the Madison area.
+      </p>
+    </div>
+
+    <div className="grid md:grid-cols-3 gap-8">
+
+      <div className="bg-[#f4f3ef] rounded-[32px] p-8 shadow-md">
+        <div className="text-yellow-500 text-xl mb-4">
+          ⭐️⭐️⭐️⭐️⭐️
+        </div>
+
+        <p className="text-gray-700 leading-relaxed mb-6 italic">
+          “My house has never looked better. CozyNest is reliable,
+          professional, and incredibly detail-oriented.”
+        </p>
+
+        <div className="font-semibold text-[#2f4337]">
+          — Sarah M.
+        </div>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-[32px] p-8 shadow-md">
+        <div className="text-yellow-500 text-xl mb-4">
+          ⭐️⭐️⭐️⭐️⭐️
+        </div>
+
+        <p className="text-gray-700 leading-relaxed mb-6 italic">
+          “The deep clean was amazing. Everything felt fresh,
+          spotless, and cozy afterward.”
+        </p>
+
+        <div className="font-semibold text-[#2f4337]">
+          — Emily R.
+        </div>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-[32px] p-8 shadow-md">
+        <div className="text-yellow-500 text-xl mb-4">
+          ⭐️⭐️⭐️⭐️⭐️
+        </div>
+
+        <p className="text-gray-700 leading-relaxed mb-6 italic">
+          “Super easy to work with and very trustworthy.
+          Highly recommend CozyNest Cleaning.”
+        </p>
+
+        <div className="font-semibold text-[#2f4337]">
+          — Jason T.
+        </div>
+      </div>
+
+    </div>
+
+    <div className="text-center mt-12">
+      <a
+        href="#free-quote-form"
+        className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
+      >
+        Request Your Free Quote
+      </a>
+    </div>
+
+  </div>
+</section>
+      {/* SERVICE AREA */}
 <section className="bg-[#f4f3ef] py-20">
   <div className="max-w-6xl mx-auto px-6 text-center">
     
@@ -404,7 +480,7 @@ export default function App() {
           <li>Middleton</li>
           <li>Fitchburg</li>
           <li>Sun Prairie</li>
-          <li>Verona</li>
+          <li>DeForest</li>
         </ul>
       </div>
 
