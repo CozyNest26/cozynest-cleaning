@@ -140,7 +140,13 @@ export default function App() {
         </div>
       </section>
 {/* SERVICES SECTION */}
-<section className="bg-[#f4f3ef] py-20">
+<section
+  className="py-20 bg-cover bg-center relative"
+  style={{
+    backgroundImage:
+      "linear-gradient(rgba(244,243,239,0.92), rgba(244,243,239,0.92)), url('https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1600&auto=format&fit=crop')"
+  }}
+>
   <div className="max-w-6xl mx-auto px-6">
 
     <div className="text-center mb-14">
