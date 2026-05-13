@@ -172,7 +172,7 @@ export default function App() {
         <div className="text-4xl mt-8 text-center">
   🧼 ✨ 🏡
 </div>
-
+</div>
       {/* DEEP CLEAN */}
       <div className="bg-white rounded-[32px] p-8 shadow-lg">
         <h3 className="text-3xl font-bold text-[#2f4337] mb-6">
@@ -199,7 +199,7 @@ export default function App() {
       <div className="text-4xl mt-8 text-center">
   🛁 ✨ 🧽
 </div>
-
+</div>
       {/* ADD ON SERVICES */}
       <div className="bg-white rounded-[32px] p-8 shadow-lg">
         <h3 className="text-3xl font-bold text-[#2f4337] mb-6">
@@ -235,7 +235,7 @@ export default function App() {
       <div className="text-4xl mt-8 text-center">
   🪟 🧴 🍋
 </div>
-
+</div>
     </div>
   </div>
 </section>
