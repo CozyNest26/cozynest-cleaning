@@ -169,7 +169,9 @@ export default function App() {
           <li>• Steam mop floors</li>
           <li>• Trash removal</li>
         </ul>
-      </div>
+        <div className="text-4xl mt-8 text-center">
+  🧼 ✨ 🏡
+</div>
 
       {/* DEEP CLEAN */}
       <div className="bg-white rounded-[32px] p-8 shadow-lg">
@@ -194,7 +196,9 @@ export default function App() {
           <li>• Thorough dusting of hard-to-reach areas</li>
           <li>• Floors deep cleaned</li>
         </ul>
-      </div>
+      <div className="text-4xl mt-8 text-center">
+  🛁 ✨ 🧽
+</div>
 
       {/* ADD ON SERVICES */}
       <div className="bg-white rounded-[32px] p-8 shadow-lg">
@@ -228,7 +232,9 @@ export default function App() {
             <span>$60</span>
           </li>
         </ul>
-      </div>
+      <div className="text-4xl mt-8 text-center">
+  🪟 🧴 🍋
+</div>
 
     </div>
   </div>
