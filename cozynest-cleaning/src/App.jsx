@@ -135,7 +135,7 @@ export default function App() {
             href="sms:16084005820"
             className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-10 py-5 rounded-2xl text-xl shadow-lg transition"
           >
-            Text (608) 400-5820
+            Text or call (608) 400-5820
           </a>
         </div>
       </section>
