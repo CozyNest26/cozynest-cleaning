@@ -257,6 +257,55 @@ export default function App() {
     </div>
   </div>
 </section>
+     {/* TRUST BADGES */}
+<section className="bg-white py-14">
+  <div className="max-w-6xl mx-auto px-6">
+
+    <div className="grid md:grid-cols-4 gap-6 text-center">
+
+      <div className="bg-[#f4f3ef] rounded-[28px] p-6 shadow-md">
+        <div className="text-4xl mb-3">🛡️</div>
+        <h3 className="text-xl font-semibold text-[#2f4337] mb-2">
+          Fully Insured
+        </h3>
+        <p className="text-gray-600">
+          Professional and protected for your peace of mind.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-[28px] p-6 shadow-md">
+        <div className="text-4xl mb-3">✨</div>
+        <h3 className="text-xl font-semibold text-[#2f4337] mb-2">
+          Attention to Detail
+        </h3>
+        <p className="text-gray-600">
+          We focus on the small details that make your home shine.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-[28px] p-6 shadow-md">
+        <div className="text-4xl mb-3">🏡</div>
+        <h3 className="text-xl font-semibold text-[#2f4337] mb-2">
+          Respectful of Your Home
+        </h3>
+        <p className="text-gray-600">
+          Reliable, careful, and trustworthy cleaning service.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-[28px] p-6 shadow-md">
+        <div className="text-4xl mb-3">💚</div>
+        <h3 className="text-xl font-semibold text-[#2f4337] mb-2">
+          Locally Owned
+        </h3>
+        <p className="text-gray-600">
+          Proudly serving the Madison area with personalized care.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
       {/* QUOTE FORM */}
 <section id="free-quote-form" className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
