@@ -163,7 +163,101 @@ export default function App() {
           </a>
         </div>
       </section>
-{/* QUOTE FORM */}
+{/* SERVICES SECTION */}
+<section className="bg-[#f4f3ef] py-20">
+  <div className="max-w-6xl mx-auto px-6">
+
+    <div className="text-center mb-14">
+      <h2 className="text-5xl font-bold text-[#2f4337] mb-4">
+        Cleaning Services
+      </h2>
+
+      <p className="text-gray-600 text-lg">
+        Professional • Reliable • Detail-Focused
+      </p>
+    </div>
+
+    <div className="grid md:grid-cols-3 gap-8">
+
+      {/* STANDARD CLEAN */}
+      <div className="bg-white rounded-[32px] p-8 shadow-lg">
+        <h3 className="text-3xl font-bold text-[#2f4337] mb-6">
+          Standard Clean
+        </h3>
+
+        <ul className="space-y-3 text-gray-700">
+          <li>• Kitchen counters, sink & appliance exteriors</li>
+          <li>• Bathroom cleaning and sanitizing</li>
+          <li>• Dusting furniture and surfaces</li>
+          <li>• Vacuum carpets and rugs</li>
+          <li>• Steam mop floors</li>
+          <li>• Trash removal</li>
+        </ul>
+      </div>
+
+      {/* DEEP CLEAN */}
+      <div className="bg-white rounded-[32px] p-8 shadow-lg">
+        <h3 className="text-3xl font-bold text-[#2f4337] mb-6">
+          Deep Clean
+        </h3>
+
+        <p className="text-gray-600 mb-4">
+          Everything in Standard Clean, plus:
+        </p>
+
+        <ul className="space-y-3 text-gray-700">
+          <li>• Baseboards and trim</li>
+          <li>• Interior windows (within reach)</li>
+          <li>• Interior doors and door frames</li>
+          <li>• Light switches and outlet covers</li>
+          <li>• Detailed bathroom scrub</li>
+          <li>• Inside kitchen cabinets and drawers</li>
+          <li>• Appliance interiors cleaned</li>
+          <li>• Fans and ceiling light fixtures</li>
+          <li>• Furniture moved and cleaned around (as able)</li>
+          <li>• Thorough dusting of hard-to-reach areas</li>
+          <li>• Floors deep cleaned</li>
+        </ul>
+      </div>
+
+      {/* ADD ON SERVICES */}
+      <div className="bg-white rounded-[32px] p-8 shadow-lg">
+        <h3 className="text-3xl font-bold text-[#2f4337] mb-6">
+          Add On Services
+        </h3>
+
+        <ul className="space-y-4 text-gray-700">
+          <li className="flex justify-between">
+            <span>Baseboards</span>
+            <span>$40</span>
+          </li>
+
+          <li className="flex justify-between">
+            <span>Interior Windows</span>
+            <span>$5-$7 each</span>
+          </li>
+
+          <li className="flex justify-between">
+            <span>Inside Fridge</span>
+            <span>$40</span>
+          </li>
+
+          <li className="flex justify-between">
+            <span>Inside Oven</span>
+            <span>$50</span>
+          </li>
+
+          <li className="flex justify-between">
+            <span>Interior Kitchen Cabinets</span>
+            <span>$60</span>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+      {/* QUOTE FORM */}
 <section id="free-quote-form" className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
     <div className="bg-[#f4f3ef] rounded-[40px] p-10 shadow-lg">
