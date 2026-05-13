@@ -45,10 +45,10 @@ export default function App() {
           </p>
 
           <a
-            href="sms:16084005820"
-            className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
-          >
-            Text for a Free Quote
+  href="#quote-form"
+  className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
+>
+            Get a Free Quote
           </a>
 
           <div className="grid grid-cols-3 gap-6 mt-10">
@@ -80,7 +80,7 @@ export default function App() {
       </section>
 
       {/* ABOUT */}
-      <section className="bg-white py-20">
+      <section id="quote-form" className="bg-white py-20">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-6">Why Choose CozyNest?</h2>
 
