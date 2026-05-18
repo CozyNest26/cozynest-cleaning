@@ -39,10 +39,11 @@ export default function App() {
             A Cozier Life.
           </h1>
 
-          <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-            CozyNest Cleaning, LLC provides reliable, detail-focused cleaning
-            services throughout the Madison area.
-          </p>
+         <p className="text-xl text-gray-700 mb-8 leading-relaxed">
+  Professional house cleaning services in Madison, Wisconsin —
+  reliable, detail-focused, and fully insured to keep your home
+  fresh, spotless, and cozy.
+</p>
 
           <a
   href="#free-quote-form"
