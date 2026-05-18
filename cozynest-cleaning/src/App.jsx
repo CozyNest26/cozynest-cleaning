@@ -54,24 +54,39 @@ export default function App() {
             Get a Free Quote
           </a>
 
-          <div className="grid grid-cols-3 gap-6 mt-10">
-            <div>
-              <div className="text-3xl font-bold">Fully</div>
-              <div className="text-gray-600">Insured</div>
-            </div>
+          <div className="grid grid-cols-3 gap-8 mt-10">
+  <div className="text-center">
+    <div className="text-2xl md:text-3xl font-semibold text-[#2f4337] leading-tight">
+      🛡️ Fully
+      <br />
+      Insured
+    </div>
 
-            <div>
-              <div className="text-3xl font-bold">Limited</div>
-              <div className="text-gray-600">Openings Available</div>
-            </div>
+    <div className="text-gray-600 mt-2 text-sm md:text-base">
+      Peace of mind
+    </div>
+  </div>
 
-            <div>
-              <div className="text-3xl font-bold">$20 OFF</div>
-              <div className="text-gray-600">First Cleaning</div>
-            </div>
-          </div>
-        </div>
+  <div className="text-center">
+    <div className="text-2xl md:text-3xl font-semibold text-[#2f4337] leading-tight">
+      ✨ Limited
+    </div>
 
+    <div className="text-gray-600 mt-2 text-sm md:text-base">
+      Openings Available
+    </div>
+  </div>
+
+  <div className="text-center">
+    <div className="text-2xl md:text-3xl font-semibold text-[#2f4337] leading-tight">
+      🧼 $20 OFF
+    </div>
+
+    <div className="text-gray-600 mt-2 text-sm md:text-base">
+      First Cleaning
+    </div>
+  </div>
+</div>
         <div>
          <img
   src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1400&auto=format&fit=crop"
