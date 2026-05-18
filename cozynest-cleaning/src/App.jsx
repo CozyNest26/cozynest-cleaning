@@ -91,7 +91,7 @@ export default function App() {
     </p>
   </div>
 </div>
-          
+        </div>  
         <div>
          <img
   src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1400&auto=format&fit=crop"
