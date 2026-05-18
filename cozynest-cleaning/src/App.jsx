@@ -54,40 +54,40 @@ export default function App() {
             Get a Free Quote
           </a>
 
-         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
-  <div className="bg-white/70 rounded-2xl p-5 text-center shadow-sm">
-    <div className="text-3xl mb-2">🛡️</div>
+       <div className="flex flex-col md:flex-row gap-6 mt-12 justify-center">
+  <div className="bg-white rounded-3xl p-6 text-center shadow-md w-full md:w-64">
+    <div className="text-4xl mb-3">🛡️</div>
 
     <h3 className="text-2xl font-semibold text-[#2f4337]">
       Fully Insured
     </h3>
 
-    <p className="text-gray-600 mt-1 text-sm">
+    <p className="text-gray-600 mt-2">
       Peace of mind
     </p>
   </div>
 
-  <div className="bg-white/70 rounded-2xl p-5 text-center shadow-sm">
-    <div className="text-3xl mb-2">✨</div>
+  <div className="bg-white rounded-3xl p-6 text-center shadow-md w-full md:w-64">
+    <div className="text-4xl mb-3">✨</div>
 
     <h3 className="text-2xl font-semibold text-[#2f4337]">
       Limited Openings
     </h3>
 
-    <p className="text-gray-600 mt-1 text-sm">
-      Availability this month
+    <p className="text-gray-600 mt-2">
+      Availability This Month
     </p>
   </div>
 
-  <div className="bg-white/70 rounded-2xl p-5 text-center shadow-sm">
-    <div className="text-3xl mb-2">🧼</div>
+  <div className="bg-white rounded-3xl p-6 text-center shadow-md w-full md:w-64">
+    <div className="text-4xl mb-3">🧼</div>
 
     <h3 className="text-2xl font-semibold text-[#2f4337]">
       $20 OFF
     </h3>
 
-    <p className="text-gray-600 mt-1 text-sm">
-      First cleaning
+    <p className="text-gray-600 mt-2">
+      First Cleaning
     </p>
   </div>
 </div>
