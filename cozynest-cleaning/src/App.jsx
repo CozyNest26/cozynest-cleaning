@@ -464,7 +464,7 @@ export default function App() {
     <div className="grid md:grid-cols-2 gap-8 mb-12">
       <div>
         <img
-          src="/images/bath before.jpg"
+          src="/bath before.jpg"
           alt="Bathroom before cleaning"
           className="rounded-3xl shadow-lg w-full"
         />
@@ -475,7 +475,7 @@ export default function App() {
 
       <div>
         <img
-          src="/images/bath after.jpg"
+          src="/bath after.jpg"
           alt="Bathroom after cleaning"
           className="rounded-3xl shadow-lg w-full"
         />
@@ -489,7 +489,7 @@ export default function App() {
     <div className="grid md:grid-cols-2 gap-8">
       <div>
         <img
-          src="/images/oven before.jpg"
+          src="/oven before.jpg"
           alt="Oven before cleaning"
           className="rounded-3xl shadow-lg w-full"
         />
@@ -500,7 +500,7 @@ export default function App() {
 
       <div>
         <img
-          src="/images/oven after.jpg"
+          src="/oven after.jpg"
           alt="Oven after cleaning"
           className="rounded-3xl shadow-lg w-full"
         />
