@@ -25,7 +25,34 @@ const testimonials = [
 export default function App() {
   return (
     <div className="min-h-screen bg-[#f4f3ef] text-[#2f4337]">
+{/* NAVIGATION */}
+<nav className="sticky top-0 z-50 bg-white/90 backdrop-blur-md shadow-sm">
+  <div className="max-w-7xl mx-auto px-6 py-4 flex flex-wrap justify-between items-center">
 
+    <div className="font-bold text-2xl text-[#2f4337]">
+      CozyNest Cleaning
+    </div>
+
+    <div className="flex flex-wrap gap-6 text-sm md:text-base font-medium">
+      <a href="#services" className="hover:text-[#6d8b74]">
+        Services
+      </a>
+
+      <a href="#gallery" className="hover:text-[#6d8b74]">
+        Gallery
+      </a>
+
+      <a href="#faq" className="hover:text-[#6d8b74]">
+        FAQ
+      </a>
+
+      <a href="#free-quote-form" className="hover:text-[#6d8b74]">
+        Get Quote
+      </a>
+    </div>
+
+  </div>
+</nav>
       {/* HERO */}
       <section className="max-w-7xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-14 items-center">
         <div>
@@ -164,6 +191,8 @@ export default function App() {
       </section>
 {/* SERVICES SECTION */}
 <section
+  <section
+  id="services"
   className="py-20 bg-cover bg-center relative"
   style={{
     backgroundImage:
@@ -449,7 +478,7 @@ export default function App() {
 
     </div>
     {/* BEFORE & AFTER GALLERY */}
-<section className="bg-[#f4f3ef] py-20">
+<section id="gallery" className="bg-[#f4f3ef] py-20">
   <div className="max-w-6xl mx-auto px-6">
 
     <h2 className="text-4xl font-bold text-center mb-4">
@@ -513,7 +542,7 @@ export default function App() {
   </div>
 </section>
 {/* FAQ */}
-<section className="bg-white py-20">
+<section id="faq" className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
     <h2 className="text-4xl font-bold text-center mb-4">
       Frequently Asked Questions
