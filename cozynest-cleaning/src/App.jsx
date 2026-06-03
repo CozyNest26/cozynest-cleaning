@@ -448,7 +448,83 @@ export default function App() {
       </div>
 
     </div>
+{/* FAQ */}
+<section className="bg-white py-20">
+  <div className="max-w-4xl mx-auto px-6">
+    <h2 className="text-4xl font-bold text-center mb-4">
+      Frequently Asked Questions
+    </h2>
 
+    <p className="text-center text-gray-600 mb-12">
+      Answers to some of our most common questions.
+    </p>
+
+    <div className="space-y-6">
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          Are you fully insured?
+        </h3>
+        <p className="text-gray-700">
+          Yes! CozyNest Cleaning is fully insured, giving you peace of mind while we work in your home.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          Do I need to be home during the cleaning?
+        </h3>
+        <p className="text-gray-700">
+          Not at all. Many clients provide access instructions and return to a freshly cleaned home. We will work with you to find the option that is most comfortable and convenient.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          Do you bring your own cleaning supplies and equipment?
+        </h3>
+        <p className="text-gray-700">
+          Yes, we provide professional cleaning products and equipment. If you have specific product preferences or sensitivities, we're happy to discuss accommodations.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          How often should I schedule cleaning services?
+        </h3>
+        <p className="text-gray-700">
+          We offer one-time cleanings as well as recurring weekly, bi-weekly, and monthly services. We'll help you choose a schedule that fits your home and lifestyle.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          How much does house cleaning cost?
+        </h3>
+        <p className="text-gray-700">
+          Pricing depends on the size of your home, the level of cleaning needed, and any add-on services requested. Contact us for a free, personalized quote.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          Are pets okay during the cleaning?
+        </h3>
+        <p className="text-gray-700">
+          Absolutely! We love pets. Please let us know about any special instructions or concerns so we can ensure a safe and stress-free experience for everyone.
+        </p>
+      </div>
+
+      <div className="bg-[#f4f3ef] rounded-3xl p-6">
+        <h3 className="font-semibold text-xl mb-2">
+          How do I get started?
+        </h3>
+        <p className="text-gray-700">
+          Simply request a free quote through our website, call, or text us. We'll discuss your needs, answer any questions, and schedule your cleaning at a time that works for you.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
     <div className="text-center mt-12">
       <a
         href="#free-quote-form"
