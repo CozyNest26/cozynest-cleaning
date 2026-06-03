@@ -413,7 +413,7 @@ export default function App() {
         </p>
 
         <div className="font-semibold text-[#2f4337]">
-          — Sarah M.
+          — Carol S.
         </div>
       </div>
 
@@ -428,7 +428,7 @@ export default function App() {
         </p>
 
         <div className="font-semibold text-[#2f4337]">
-          — Emily R.
+          — Jeff W.
         </div>
       </div>
 
@@ -443,7 +443,7 @@ export default function App() {
         </p>
 
         <div className="font-semibold text-[#2f4337]">
-          — Jason T.
+          — Peg H.
         </div>
       </div>
 
