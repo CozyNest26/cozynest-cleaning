@@ -25,6 +25,7 @@ const testimonials = [
 export default function App() {
   return (
     <div className="min-h-screen bg-[#f4f3ef] text-[#2f4337]">
+      
 {/* NAVIGATION */}
 <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur-md shadow-sm">
   <div className="max-w-7xl mx-auto px-6 py-4 flex flex-wrap justify-between items-center">
@@ -35,7 +36,7 @@ export default function App() {
 
     <div className="flex flex-wrap gap-6 text-sm md:text-base font-medium">
       <a href="#services" className="hover:text-[#6d8b74]">
-        Services
+        Services 
       </a>
 
       <a href="#gallery" className="hover:text-[#6d8b74]">
