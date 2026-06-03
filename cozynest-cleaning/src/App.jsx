@@ -192,7 +192,6 @@ export default function App() {
       </section>
 {/* SERVICES SECTION */}
 <section
-  <section
   id="services"
   className="py-20 bg-cover bg-center relative"
   style={{
