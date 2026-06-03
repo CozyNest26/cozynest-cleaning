@@ -448,6 +448,70 @@ export default function App() {
       </div>
 
     </div>
+    {/* BEFORE & AFTER GALLERY */}
+<section className="bg-[#f4f3ef] py-20">
+  <div className="max-w-6xl mx-auto px-6">
+
+    <h2 className="text-4xl font-bold text-center mb-4">
+      Before & After Results
+    </h2>
+
+    <p className="text-center text-gray-600 mb-12">
+      See the CozyNest Cleaning difference.
+    </p>
+
+    {/* Bathroom */}
+    <div className="grid md:grid-cols-2 gap-8 mb-12">
+      <div>
+        <img
+          src="/images/bath before.jpg"
+          alt="Bathroom before cleaning"
+          className="rounded-3xl shadow-lg w-full"
+        />
+        <p className="text-center mt-3 font-semibold text-lg">
+          Before
+        </p>
+      </div>
+
+      <div>
+        <img
+          src="/images/bath after.jpg"
+          alt="Bathroom after cleaning"
+          className="rounded-3xl shadow-lg w-full"
+        />
+        <p className="text-center mt-3 font-semibold text-lg">
+          After
+        </p>
+      </div>
+    </div>
+
+    {/* Oven */}
+    <div className="grid md:grid-cols-2 gap-8">
+      <div>
+        <img
+          src="/images/oven before.jpg"
+          alt="Oven before cleaning"
+          className="rounded-3xl shadow-lg w-full"
+        />
+        <p className="text-center mt-3 font-semibold text-lg">
+          Before
+        </p>
+      </div>
+
+      <div>
+        <img
+          src="/images/oven after.jpg"
+          alt="Oven after cleaning"
+          className="rounded-3xl shadow-lg w-full"
+        />
+        <p className="text-center mt-3 font-semibold text-lg">
+          After
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
 {/* FAQ */}
 <section className="bg-white py-20">
   <div className="max-w-4xl mx-auto px-6">
