@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     name: "Peg H.",
-    text: "Reliable, friendly, and my house has never looked better."
+    text: "Jenna is amazing! She's completely transformed my house. She's cleaned things I didn't even think of asking her to clean, is extremely attentive to detail, and extremely flexile. She's such a delight I highly recommend her!"
   },
   {
     name: "Jeffrey W.",
