@@ -403,12 +403,18 @@ export default function App() {
           className="p-4 rounded-2xl border border-gray-300 md:col-span-2"
         />
 
-        <button
-          type="submit"
-          className="bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition md:col-span-2"
-        >
-          Request My Free Quote
-        </button>
+       <button
+  type="submit"
+  onClick={() =>
+    window.gtag?.('event', 'quote_request_started', {
+      event_category: 'Lead',
+      event_label: 'Quote Form',
+    })
+  }
+  className="bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition md:col-span-2"
+>
+  Request My Free Quote
+</button>
       </form>
     </div>
   </div>
