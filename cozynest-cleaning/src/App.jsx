@@ -136,9 +136,8 @@ export default function App() {
 <img
   src="/summer-view.jpg"
   alt="Bright room with clean windows overlooking water"
-  className="rounded-3xl w-full h-80 object-cover mb-6"
+  className="rounded-3xl w-full h-96 object-cover mb-6"
 />
-
     <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
       Summer View Special
     </h2>
@@ -153,7 +152,7 @@ export default function App() {
 
     <p className="text-gray-600 max-w-2xl mx-auto mb-8 text-lg">
       Add interior window cleaning to any CozyNest Cleaning service and enjoy
-      brighter rooms, more natural light, and crystal-clear summer views all season long.
+      brighter rooms, more natural light, and crystal-clear summer views.
     </p>
 
     <a
