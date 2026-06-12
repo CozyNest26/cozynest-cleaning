@@ -154,7 +154,9 @@ export default function App() {
       Add interior window cleaning to any CozyNest Cleaning service and enjoy
       brighter rooms, more natural light, and crystal-clear summer views.
     </p>
-
+    <p className="text-sm font-semibold text-[#6d8b74] mb-6">
+     Limited-Time Offer • Ends August 31, 2026
+    </p>
     <a
       href="#free-quote-form"
       className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
