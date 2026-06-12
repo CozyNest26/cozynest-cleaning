@@ -458,12 +458,13 @@ export default function App() {
         </div>
 
         <p className="text-gray-700 leading-relaxed mb-6 italic">
-          “The deep clean was amazing. Everything felt fresh,
-          spotless, and cozy afterward.”
+          “Jenna at Cozynest Cleaning always does a great job cleaning my apartment! 
+          Her attention to detail, timeliness, and work ethic are the reasons 
+          I keep asking her back - highly, highly recommend.”
         </p>
 
         <div className="font-semibold text-[#2f4337]">
-          — Jeff W.
+          — Alyssa T.
         </div>
       </div>
 
@@ -473,8 +474,10 @@ export default function App() {
         </div>
 
         <p className="text-gray-700 leading-relaxed mb-6 italic">
-          “Super easy to work with and very trustworthy.
-          Highly recommend CozyNest Cleaning.”
+          “Jenna is amazing! She’s completely transformed my house. 
+          She’s cleaned things I didn’t even think of asking her to clean, 
+          is extremely attentive to detail, and extremely flexible. 
+          She’s such a delight I highly recommend her!.”
         </p>
 
         <div className="font-semibold text-[#2f4337]">
