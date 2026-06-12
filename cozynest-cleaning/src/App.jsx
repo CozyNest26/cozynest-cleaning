@@ -133,10 +133,10 @@ export default function App() {
 <section className="max-w-5xl mx-auto px-6 py-10">
   <div className="bg-gradient-to-r from-[#f8f6f1] to-[#eef4ee] rounded-[40px] p-10 shadow-lg text-center border border-white">
 
-    <img
-  src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop"
-  alt="Bright summer windows"
-  className="rounded-3xl w-full h-64 object-cover mb-6"
+<img
+  src="/images/summer-view.jpg"
+  alt="Bright room with clean windows overlooking water"
+  className="rounded-3xl w-full h-80 object-cover mb-6"
 />
 
     <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
