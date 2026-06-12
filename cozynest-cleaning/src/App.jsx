@@ -134,7 +134,7 @@ export default function App() {
   <div className="bg-gradient-to-r from-[#f8f6f1] to-[#eef4ee] rounded-[40px] p-10 shadow-lg text-center border border-white">
 
 <img
-  src="/images/summer-view.jpg"
+  src="/summer-view.jpg"
   alt="Bright room with clean windows overlooking water"
   className="rounded-3xl w-full h-80 object-cover mb-6"
 />
