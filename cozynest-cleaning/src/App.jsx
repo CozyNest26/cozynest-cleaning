@@ -129,7 +129,42 @@ export default function App() {
           />
         </div>
       </section>
+      {/* SUMMER VIEW SPECIAL */}
+<section className="max-w-5xl mx-auto px-6 py-10">
+  <div className="bg-gradient-to-r from-[#f8f6f1] to-[#eef4ee] rounded-[40px] p-10 shadow-lg text-center border border-white">
 
+    <img
+  src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop"
+  alt="Bright summer windows"
+  className="rounded-3xl w-full h-64 object-cover mb-6"
+/>
+
+    <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
+      Summer View Special
+    </h2>
+
+    <p className="text-xl text-gray-700 mb-4 italic">
+      Sunshine looks better through clean windows.
+    </p>
+
+    <p className="text-3xl font-bold text-[#6d8b74] mb-6">
+      25% OFF Interior Window Cleaning
+    </p>
+
+    <p className="text-gray-600 max-w-2xl mx-auto mb-8 text-lg">
+      Add interior window cleaning to any CozyNest Cleaning service and enjoy
+      brighter rooms, more natural light, and crystal-clear summer views all season long.
+    </p>
+
+    <a
+      href="#free-quote-form"
+      className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
+    >
+      Claim My Summer Special
+    </a>
+
+  </div>
+</section>      
       {/* ABOUT */}
       <section id="quote-form" className="bg-white py-20">
         <div className="max-w-6xl mx-auto px-6 text-center">
