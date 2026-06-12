@@ -136,7 +136,7 @@ export default function App() {
 <img
   src="/summer-view.jpg"
   alt="Bright room with clean windows overlooking water"
-  className="rounded-3xl w-full h-96 object-cover mb-6"
+  className="rounded-3xl w-full h-[450px] object-cover mb-6"
 />
     <h2 className="text-4xl font-bold text-[#2f4337] mb-4">
       Summer View Special
