@@ -104,7 +104,7 @@ export default function App() {
     <div className="text-4xl mb-3">✨</div>
 
     <h3 className="text-2xl font-semibold text-[#2f4337]">
-      Limited Openings
+      Accepting New Clients
     </h3>
 
     <p className="text-gray-600 mt-2">
@@ -116,7 +116,7 @@ export default function App() {
     <div className="text-4xl mb-3">🧼</div>
 
     <h3 className="text-2xl font-semibold text-[#2f4337]">
-      $20 OFF
+      $25 OFF
     </h3>
 
     <p className="text-gray-600 mt-2">
