@@ -11,3 +11,29 @@ body {
 h1, h2, h3, h4 {
   font-family: 'Playfair Display', serif;
 }
+/* Top Banner */
+.top-banner {
+  background-color: #6F8F7A;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.top-banner a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Phone Number Under Quote Button */
+.hero-phone {
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.hero-phone a {
+  color: #6F8F7A;
+  text-decoration: none;
+}
