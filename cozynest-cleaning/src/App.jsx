@@ -70,7 +70,7 @@ export default function App() {
   CozyNest Cleaning, LLC
 </h2>
          <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-  Professional house cleaning services in Madison, Wisconsin —
+  House Cleaning, Deep Cleaning, and Move-Out Cleaning Services in Madison, Wisconsin —
   reliable, detail-focused, and fully insured to keep your home
   fresh, spotless, and cozy.
 </p>
