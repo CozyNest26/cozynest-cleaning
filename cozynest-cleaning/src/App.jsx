@@ -79,6 +79,10 @@ export default function App() {
 >
             Get a Free Quote
           </a>
+          
+        <p className="mt-4 text-lg font-bold text-[#2f4138]">
+  📞 Text or Call: (608) 400-5820
+</p>  
        <div className="flex flex-col md:flex-row gap-6 mt-12 justify-center">
   <div className="bg-white rounded-3xl p-6 text-center shadow-md w-full md:w-64">
     <div className="text-4xl mb-3">🛡️</div>
