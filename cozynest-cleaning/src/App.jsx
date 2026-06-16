@@ -60,13 +60,7 @@ export default function App() {
           <div className="inline-block bg-white px-5 py-2 rounded-full text-sm shadow-sm mb-6">
             ✨ Professional • Reliable • Detail-Focused
           </div>
-
-         <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-  House Cleaning, Deep Cleaning, and Move-Out Cleaning Services in Madison, Wisconsin —
-  reliable, detail-focused, and fully insured to keep your home
-  fresh, spotless, and cozy.
-</p>
-           <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
+          <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
             A Cleaner Home.
             <br />
             A Cozier Life.
@@ -74,7 +68,11 @@ export default function App() {
 <h2 className="text-2xl md:text-3xl font-semibold text-[#6d8b74] mb-6">
   CozyNest Cleaning, LLC
 </h2>
-
+          <p className="text-xl text-gray-700 mb-8 leading-relaxed">
+  House Cleaning, Deep Cleaning, and Move-Out Cleaning Services in Madison, Wisconsin —
+  reliable, detail-focused, and fully insured to keep your home
+  fresh, spotless, and cozy.
+</p>
           <a
   href="#free-quote-form"
   className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
