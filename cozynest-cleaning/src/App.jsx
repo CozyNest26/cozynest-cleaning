@@ -54,6 +54,12 @@ export default function App() {
 
   </div>
 </nav>
+      <div className="top-banner">
+  📞 Text or Call:
+  <a href="tel:6084005820"> (608) 400-5820</a>
+  {" | "}
+  ✨ $25 Off Your Next Cleaning
+</div>
       {/* HERO */}
       <section className="max-w-7xl mx-auto px-6 py-20 grid md:grid-cols-2 gap-14 items-center">
         <div>
