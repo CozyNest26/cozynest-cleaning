@@ -60,11 +60,17 @@ export default function App() {
           <div className="inline-block bg-white px-5 py-2 rounded-full text-sm shadow-sm mb-6">
             ✨ Professional • Reliable • Detail-Focused
           </div>
-          <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
-            A Cleaner Home.
-            <br />
-            A Cozier Life.
-          </h1>
+  <>
+  <h2 className="text-lg md:text-xl font-semibold text-[#6d8b74] mb-2">
+    House Cleaning Services in Madison, WI
+  </h2>
+
+  <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
+    A Cleaner Home.
+    <br />
+    A Cozier Life.
+  </h1>
+</>
 <h2 className="text-2xl md:text-3xl font-semibold text-[#6d8b74] mb-6">
   CozyNest Cleaning, LLC
 </h2>
