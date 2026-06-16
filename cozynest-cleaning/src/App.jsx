@@ -79,7 +79,7 @@ export default function App() {
 >
             Get a Free Quote
           </a>
-<div className=className="mt-4 text-lg font-bold text-[#2f4138]">
+<div className="mt-4 text-lg font-bold text-[#2f4138]">
   📞 Text or Call:
   <a href="tel:6084005820" className="ml-1 hover:underline">
     (608) 400-5820
