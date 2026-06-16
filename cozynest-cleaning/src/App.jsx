@@ -120,7 +120,7 @@ export default function App() {
     </h3>
 
     <p className="text-gray-600 mt-2">
-      First Cleaning
+      Your Next Cleaning
     </p>
   </div>
 </div>
