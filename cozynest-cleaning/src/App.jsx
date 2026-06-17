@@ -5,6 +5,7 @@ const services = [
   "Apartment Cleaning",
   "Vacation Rental Cleaning",
   "Post-Construction Cleanup"
+  "Property Management Cleaning"
 ]
 
 const testimonials = [
@@ -64,7 +65,7 @@ export default function App() {
           </div>
   <>
   <h2 className="text-lg md:text-xl font-semibold text-[#6d8b74] mb-2">
-    House Cleaning Services in Madison, WI
+    House Cleaning Services & Property Management Cleaning Services in the Madison, WI area
   </h2>
 
   <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
