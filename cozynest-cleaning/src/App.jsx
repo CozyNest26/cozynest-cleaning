@@ -533,7 +533,7 @@ export default function App() {
     </div>
     {/* PROPERTY MANAGEMENT SECTION */}
 
-<section className="max-w-7xl mx-auto px-6 py-20">
+<section id="property-management" className="max-w-7xl mx-auto px-6 py-20">
   <div className="text-center mb-12">
     <h2 className="text-4xl md:text-5xl font-bold text-[#2f4138] mb-4">
       Property Management & Rental Turnover Cleaning
