@@ -4,7 +4,7 @@ const services = [
   "Move-In / Move-Out Cleaning",
   "Apartment Cleaning",
   "Vacation Rental Cleaning",
-  "Post-Construction Cleanup"
+  "Post-Construction Cleanup",
   "Property Management Cleaning"
 ]
 
