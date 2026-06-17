@@ -529,6 +529,83 @@ export default function App() {
       </div>
 
     </div>
+    {/* PROPERTY MANAGEMENT SECTION */}
+
+<section className="max-w-7xl mx-auto px-6 py-20">
+  <div className="text-center mb-12">
+    <h2 className="text-4xl md:text-5xl font-bold text-[#2f4138] mb-4">
+      Property Management & Rental Turnover Cleaning
+    </h2>
+
+    <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+      Reliable turnover cleaning services for property managers,
+      landlords, apartment communities, and rental property owners
+      throughout Madison and surrounding areas.
+    </p>
+  </div>
+
+  <div className="grid md:grid-cols-2 gap-10">
+
+    {/* Services Card */}
+    <div className="bg-white rounded-3xl p-8 shadow-md">
+      <h3 className="text-2xl font-semibold text-[#6d8b74] mb-6">
+        Turnover Cleaning Includes
+      </h3>
+
+      <ul className="space-y-3 text-gray-700">
+        <li>✔ Kitchen cleaning & sanitizing</li>
+        <li>✔ Appliance exterior cleaning</li>
+        <li>✔ Bathroom cleaning & disinfecting</li>
+        <li>✔ Dusting all surfaces</li>
+        <li>✔ Vacuuming carpets & rugs</li>
+        <li>✔ Steam mopping hard floors</li>
+        <li>✔ Trash removal</li>
+        <li>✔ Spot cleaning doors, trim & baseboards</li>
+        <li>✔ Interior window cleaning available</li>
+      </ul>
+    </div>
+
+    {/* Why Choose Us Card */}
+    <div className="bg-white rounded-3xl p-8 shadow-md">
+      <h3 className="text-2xl font-semibold text-[#6d8b74] mb-6">
+        Why Property Managers Choose CozyNest
+      </h3>
+
+      <ul className="space-y-4 text-gray-700">
+        <li>🛡 Fully Insured</li>
+        <li>📅 Reliable Scheduling</li>
+        <li>🧹 Detail-Focused Cleaning</li>
+        <li>🏢 Apartment & Rental Experience</li>
+        <li>📱 Easy Communication by Text</li>
+        <li>⭐ Move-In Ready Results</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div className="bg-[#f8f8f5] rounded-3xl p-10 mt-12 text-center shadow-sm">
+    <h3 className="text-3xl font-semibold text-[#2f4138] mb-4">
+      Serving Property Managers Across Madison
+    </h3>
+
+    <p className="text-gray-700 max-w-3xl mx-auto mb-8">
+      Whether you manage a single rental property or multiple apartment
+      communities, CozyNest Cleaning provides dependable turnover
+      cleaning to help get units move-in ready quickly and professionally.
+    </p>
+
+    <a
+      href="#free-quote-form"
+      className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
+    >
+      Request Property Management Pricing
+    </a>
+
+    <p className="mt-6 text-lg font-bold text-[#2f4138]">
+      📞 Text or Call: (608) 400-5820
+    </p>
+  </div>
+</section>
     {/* BEFORE & AFTER GALLERY */}
 <section id="gallery" className="bg-[#f4f3ef] py-20">
   <div className="max-w-6xl mx-auto px-6">
@@ -743,6 +820,13 @@ export default function App() {
     </div>
   </div>
 </section>  
+      <p className="text-center text-gray-600 mt-10 max-w-4xl mx-auto">
+  CozyNest Cleaning provides property management cleaning,
+  apartment turnover cleaning, rental turnover cleaning,
+  move-out cleaning, and vacant unit cleaning services in
+  Madison, Sun Prairie, DeForest, Windsor, Waunakee,
+  Middleton, Fitchburg, Monona, and Verona, Wisconsin.
+</p>      
       {/* FOOTER */}
       <footer className="bg-white border-t">
         <div className="max-w-6xl mx-auto px-6 py-10 grid md:grid-cols-2 gap-10">
