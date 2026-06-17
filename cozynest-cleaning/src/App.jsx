@@ -50,7 +50,7 @@ export default function App() {
       </a>
 
       <a href="#free-quote-form" className="hover:text-[#6d8b74]">
-        Get Quote
+        Free Quote
       </a>
     </div>
 
