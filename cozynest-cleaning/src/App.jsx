@@ -38,7 +38,9 @@ export default function App() {
       <a href="#services" className="hover:text-[#6d8b74]">
         Services 
       </a>
-
+      <a href="#property-management" className="hover:text-[#6d8b74]">
+  Property Managers
+</a>
       <a href="#gallery" className="hover:text-[#6d8b74]">
         Gallery
       </a>
