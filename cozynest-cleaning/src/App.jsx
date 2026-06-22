@@ -410,6 +410,11 @@ export default function App() {
         className="grid md:grid-cols-2 gap-6"
       >
         <input
+  type="hidden"
+  name="_next"
+  value="https://www.cozynestcleaningwi.com/thank-you"
+/>
+        <input
           type="text"
           name="name"
           placeholder="Full Name"
