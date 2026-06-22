@@ -43,6 +43,9 @@ export default function App() {
   Property Managers
 </a>
       <a href="#gallery" className="hover:text-[#6d8b74]">
+       <a href="#move-out-cleaning" className="hover:text-[#6d8b74]">
+  Move-Out Cleaning
+</a>
         Gallery
       </a>
 
@@ -65,7 +68,7 @@ export default function App() {
           </div>
   <>
   <h2 className="text-lg md:text-xl font-semibold text-[#6d8b74] mb-2">
-    House Cleaning Services & Property Management Cleaning Services in the Madison, WI area
+    House Cleaning, Move-Out Cleaning & Property Management Cleaning Services in the Madison, WI area
   </h2>
 
   <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-6">
@@ -607,6 +610,83 @@ export default function App() {
       className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
     >
       Request Property Management Pricing
+    </a>
+
+    <p className="mt-6 text-lg font-bold text-[#2f4138]">
+      📞 Text or Call: (608) 400-5820
+    </p>
+  </div>
+</section>
+    {/* MOVE OUT CLEANING SECTION */}
+
+<section
+  id="move-out-cleaning"
+  className="max-w-7xl mx-auto px-6 py-20"
+>
+  <div className="text-center mb-12">
+    <h2 className="text-4xl md:text-5xl font-bold text-[#2f4138] mb-4">
+      Move-Out Cleaning Services
+    </h2>
+
+    <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+      Moving is stressful enough. Let CozyNest Cleaning handle the cleaning so
+      you can focus on your next home.
+    </p>
+  </div>
+
+  <div className="grid md:grid-cols-2 gap-10">
+
+    <div className="bg-white rounded-3xl p-8 shadow-md">
+      <h3 className="text-2xl font-semibold text-[#6d8b74] mb-6">
+        What's Included
+      </h3>
+
+      <ul className="space-y-3 text-gray-700">
+        <li>✔ Deep kitchen cleaning</li>
+        <li>✔ Appliance exterior cleaning</li>
+        <li>✔ Bathroom sanitizing</li>
+        <li>✔ Cabinet and drawer wipe-downs</li>
+        <li>✔ Dusting throughout the home</li>
+        <li>✔ Vacuuming all floors</li>
+        <li>✔ Steam mopping hard surfaces</li>
+        <li>✔ Baseboards and trim spot cleaning</li>
+        <li>✔ Trash removal</li>
+      </ul>
+    </div>
+
+    <div className="bg-white rounded-3xl p-8 shadow-md">
+      <h3 className="text-2xl font-semibold text-[#6d8b74] mb-6">
+        Perfect For
+      </h3>
+
+      <ul className="space-y-3 text-gray-700">
+        <li>🏠 Homeowners preparing to sell</li>
+        <li>📦 Families moving to a new home</li>
+        <li>🏢 Apartment move-outs</li>
+        <li>🔑 Rental property turnovers</li>
+        <li>🏘️ Landlords and property managers</li>
+        <li>✨ Move-in ready preparation</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div className="bg-[#f8f8f5] rounded-3xl p-10 mt-12 text-center shadow-sm">
+    <h3 className="text-3xl font-semibold text-[#2f4138] mb-4">
+      Leave Your Space Spotless
+    </h3>
+
+    <p className="text-gray-700 max-w-3xl mx-auto mb-8">
+      Whether you're moving out of an apartment, rental property, or family
+      home, our detail-focused cleaning helps leave the space fresh, clean,
+      and ready for its next occupants.
+    </p>
+
+    <a
+      href="#free-quote-form"
+      className="inline-block bg-[#6d8b74] hover:bg-[#58705e] text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition"
+    >
+      Request Move-Out Cleaning Pricing
     </a>
 
     <p className="mt-6 text-lg font-bold text-[#2f4138]">
