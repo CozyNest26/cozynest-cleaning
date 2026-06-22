@@ -35,19 +35,19 @@ export default function App() {
       CozyNest Cleaning
     </div>
 
-    <div className="flex flex-wrap gap-6 text-sm md:text-base font-medium">
+    <div className="flex flex-wrap gap-8 text-sm md:text-base font-medium">
       <a href="#services" className="hover:text-[#6d8b74]">
         Services 
       </a>
       <a href="#property-management" className="hover:text-[#6d8b74]">
   Property Managers
 </a>
-      <a href="#gallery" className="hover:text-[#6d8b74]">
-       <a href="#move-out-cleaning" className="hover:text-[#6d8b74]">
+      <a href="#move-out-cleaning" className="hover:text-[#6d8b74]">
   Move-Out Cleaning
 </a>
-        Gallery
-      </a>
+      <a href="#gallery" className="hover:text-[#6d8b74]">
+  Gallery
+</a>
 
       <a href="#faq" className="hover:text-[#6d8b74]">
         FAQ
