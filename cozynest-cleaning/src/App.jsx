@@ -281,37 +281,37 @@ export default function App() {
   </div>
 
   <div className="flex items-center justify-center mb-5">
-    <div className="h-px bg-[#6d8b74] flex-1"></div>
+    <div className="h-px bg-[#9aac9d] flex-1"></div>
 
     <div className="mx-4 text-3xl text-[#6d8b74]">
       🌿
     </div>
 
-    <div className="h-px bg-[#6d8b74] flex-1"></div>
+    <div className="h-px bg-[#9aac9d] flex-1"></div>
   </div>
 
-  <h4 className="text-center text-xl font-semibold text-[#2f4337]">
+  <h4 className="text-center text-lg font-medium text-[#5f6f63] tracking-wide">
     Typical Pricing
   </h4>
 
   <div className="mt-4">
-    <p className="text-center text-5xl font-bold text-[#2f4337]">
+    <p className="text-center text-4xl font-semibold text-[#4d5f53] font-serif">
       $100–140
     </p>
 
-    <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-2">
+   <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2">
       Apartments
     </p>
   </div>
 
-  <div className="border-t border-dashed border-gray-300 my-6"></div>
+ <div className="border-t border-dashed border-[#d7d2c8] my-5"></div>
 
   <div>
-    <p className="text-center text-5xl font-bold text-[#2f4337]">
+    <p className="text-center text-4xl font-semibold text-[#4d5f53] font-serif">
       $140–220
     </p>
 
-    <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-2">
+    <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2">
       Homes
     </p>
   </div>
@@ -348,24 +348,24 @@ export default function App() {
   </div>
 
   <div className="flex items-center justify-center mb-5">
-    <div className="h-px bg-[#6d8b74] flex-1"></div>
+    <div className="h-px bg-[#9aac9d] flex-1"></div>
 
     <div className="mx-4 text-3xl text-[#6d8b74]">
       🌿
     </div>
 
-    <div className="h-px bg-[#6d8b74] flex-1"></div>
+    <div className="h-px bg-[#9aac9d] flex-1"></div>
   </div>
 
   <h4 className="text-center text-xl font-semibold text-[#2f4337]">
     Typical Pricing
   </h4>
 
-  <p className="text-center text-5xl font-bold text-[#2f4337] mt-4">
+  <p className="text-center text-4xl font-semibold text-[#4d5f53] font-serif mt-4">
     $180–500+
   </p>
 
-  <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-3">
+  <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2">
     Depending on Home Size
   </p>
 
