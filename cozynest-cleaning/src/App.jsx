@@ -274,8 +274,48 @@ export default function App() {
           <li>• Steam mop floors</li>
           <li>• Trash removal</li>
         </ul>
-        <div className="text-4xl mt-8 text-center">
-  🧼 ✨ 🏡
+       <div className="mt-10">
+
+  <div className="text-4xl text-center mb-6">
+    🧼 ✨ 🏡
+  </div>
+
+  <div className="flex items-center justify-center mb-5">
+    <div className="h-px bg-[#6d8b74] flex-1"></div>
+
+    <div className="mx-4 text-3xl text-[#6d8b74]">
+      🌿
+    </div>
+
+    <div className="h-px bg-[#6d8b74] flex-1"></div>
+  </div>
+
+  <h4 className="text-center text-xl font-semibold text-[#2f4337]">
+    Typical Pricing
+  </h4>
+
+  <div className="mt-4">
+    <p className="text-center text-5xl font-bold text-[#2f4337]">
+      $100–140
+    </p>
+
+    <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-2">
+      Apartments
+    </p>
+  </div>
+
+  <div className="border-t border-dashed border-gray-300 my-6"></div>
+
+  <div>
+    <p className="text-center text-5xl font-bold text-[#2f4337]">
+      $140–220
+    </p>
+
+    <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-2">
+      Homes
+    </p>
+  </div>
+
 </div>
 </div>
       {/* DEEP CLEAN */}
@@ -301,8 +341,38 @@ export default function App() {
           <li>• Thorough dusting of hard-to-reach areas</li>
           <li>• Floors deep cleaned</li>
         </ul>
-      <div className="text-4xl mt-8 text-center">
-  🛁 ✨ 🧽
+     <div className="mt-10">
+
+  <div className="text-4xl text-center mb-6">
+    🛁 ✨ 🧽
+  </div>
+
+  <div className="flex items-center justify-center mb-5">
+    <div className="h-px bg-[#6d8b74] flex-1"></div>
+
+    <div className="mx-4 text-3xl text-[#6d8b74]">
+      🌿
+    </div>
+
+    <div className="h-px bg-[#6d8b74] flex-1"></div>
+  </div>
+
+  <h4 className="text-center text-xl font-semibold text-[#2f4337]">
+    Typical Pricing
+  </h4>
+
+  <p className="text-center text-5xl font-bold text-[#2f4337] mt-4">
+    $180–500+
+  </p>
+
+  <p className="text-center uppercase tracking-widest text-sm text-gray-600 mt-3">
+    Depending on Home Size
+  </p>
+
+  <p className="text-center uppercase tracking-widest text-sm text-gray-600">
+    & Condition
+  </p>
+
 </div>
 </div>
       {/* ADD ON SERVICES */}
@@ -343,6 +413,25 @@ export default function App() {
 </div>
     </div>
   </div>
+  <div className="max-w-4xl mx-auto mt-12 flex items-center justify-center gap-5">
+
+  <span className="text-4xl text-[#6d8b74]">
+    🌿
+  </span>
+
+  <p className="text-center text-gray-700 text-lg leading-relaxed">
+    Prices vary depending on the size of your home, the condition of the
+    space, and any additional services requested.
+    <br />
+    Every home is unique, and we'll provide a customized quote before
+    every cleaning.
+  </p>
+
+  <span className="text-4xl text-[#6d8b74]">
+    🌿
+  </span>
+
+</div>
 </section>
      {/* TRUST BADGES */}
 <section className="bg-white py-14">
