@@ -10,7 +10,8 @@ export default function Pricing() {
           </p>
 
           <h1 className="text-5xl md:text-6xl font-bold text-[#2f4138] mb-6">
-            No Surprises.
+            House Cleaning Prices.
+            Simple. Honest. Transparent.
           </h1>
 
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
@@ -50,7 +51,7 @@ export default function Pricing() {
       </h4>
 
       <p className="text-4xl font-bold text-[#6d8b74] mt-4">
-        From $100
+        $100-140
       </p>
 
       <p className="mt-4 text-gray-600">
@@ -81,7 +82,7 @@ export default function Pricing() {
       </h4>
 
       <p className="text-5xl font-bold mt-4">
-        From $140
+        $140-220
       </p>
 
       <p className="mt-4">
@@ -108,7 +109,7 @@ export default function Pricing() {
       </h4>
 
       <p className="text-4xl font-bold text-[#6d8b74] mt-4">
-        From $220
+        $220+
       </p>
 
       <p className="mt-4 text-gray-600">
