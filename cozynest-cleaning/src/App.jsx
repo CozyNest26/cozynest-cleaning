@@ -272,8 +272,7 @@ export default function App() {
           <li>• Dusting furniture and surfaces</li>
           <li>• Vacuum carpets and rugs</li>
           <li>• Steam mop floors</li>
-          <li>• Trash removal</li>
-        </ul>
+          </ul>
        <div className="mt-10">
 
   <div className="text-4xl text-center mb-6">
@@ -336,9 +335,8 @@ export default function App() {
           <li>• Detailed bathroom scrub</li>
           <li>• Inside kitchen cabinets and drawers</li>
           <li>• Appliance interiors cleaned</li>
-          <li>• Fans and ceiling light fixtures</li>
+          <li>• Fans and ceiling light fixtures (as able)</li>
           <li>• Furniture moved and cleaned around (as able)</li>
-          <li>• Thorough dusting of hard-to-reach areas</li>
           <li>• Floors deep cleaned</li>
         </ul>
      <div className="mt-10">
