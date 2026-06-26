@@ -1,3 +1,5 @@
+import Pricing from "./Pricing";
+
 const services = [
   "Recurring Residential Cleaning",
   "Deep Cleaning",
@@ -692,6 +694,7 @@ export default function App() {
     </p>
   </div>
 </section>
+    <Pricing />
     {/* BEFORE & AFTER GALLERY */}
 <section id="gallery" className="bg-[#f4f3ef] py-20">
   <div className="max-w-6xl mx-auto px-6">
