@@ -33,7 +33,7 @@ export default function Pricing() {
   </h3>
 
   <p className="text-center text-gray-600 mb-12">
-    Typical pricing for recurring or one-time residential cleaning.
+    Typical pricing for recurring residential cleaning.
   </p>
 
   <div className="grid md:grid-cols-3 gap-8">
