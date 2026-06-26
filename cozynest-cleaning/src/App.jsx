@@ -307,7 +307,7 @@ export default function App() {
 
   <div>
     <p className="text-center text-4xl font-semibold text-[#4d5f53] font-serif">
-      $140–220
+      $140–220+
     </p>
 
     <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2">
