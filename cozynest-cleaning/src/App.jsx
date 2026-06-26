@@ -1,5 +1,3 @@
-import Pricing from "./Pricing";
-
 const services = [
   "Recurring Residential Cleaning",
   "Deep Cleaning",
