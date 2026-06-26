@@ -365,13 +365,11 @@ export default function App() {
     $180–500+
   </p>
 
-  <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2">
-    Depending on Home Size
-  </p>
-
-  <p className="text-center uppercase tracking-widest text-sm text-gray-600">
-    & Condition
-  </p>
+  <p className="text-center uppercase tracking-[0.25em] text-xs text-gray-500 mt-2 leading-relaxed">
+  Depending on Home Size
+  <br />
+  &amp; Condition
+</p>
 
 </div>
 </div>
