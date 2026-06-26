@@ -11,12 +11,10 @@ export default function Pricing() {
 
           <h1 className="text-5xl md:text-6xl font-bold text-[#2f4138] mb-6">
             House Cleaning Prices.
-            Simple. Honest. Transparent.
-          </h1>
+                      </h1>
 
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Every home is unique, but we believe you should have a good idea
-            of what to expect before requesting a quote.
+           Simple. Honest. Transparent.
           </p>
 
           <a
